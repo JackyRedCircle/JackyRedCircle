@@ -12,8 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, World!
+
+Hi! I'm RedCircle. I'm so glad to meet you here! Please enjoy my place :happy:
+
+---
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJackyRedCircle&count_bg=%2374A64C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)  
+
 ![Badge](https://img.shields.io/github/followers/JackyRedCircle?color=74A64C&style=for-the-badge)
 [![gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jykim030119@gmail.com)](mailto:jykim030119@gmail.com)
 [![facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/jackyRedCircle)](https://www.facebook.com/jackyRedCircle)  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackyRedCircle&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
