@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, World!
+# Hello, World! 👋
 
-Hi! I'm RedCircle. I'm so glad to meet you here! Please enjoy my place :happy:
+Hi! I'm RedCircle. I'm so glad to meet you here! Please enjoy my place 😄
 
 ---
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJackyRedCircle&count_bg=%2374A64C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)  
