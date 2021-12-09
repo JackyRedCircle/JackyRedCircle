@@ -27,6 +27,6 @@ Hi! I'm RedCircle. I'm so glad to meet you here! I hope you enjoy my place 😄 
 ![Badge](https://img.shields.io/github/followers/JackyRedCircle?color=74A64C&style=for-the-badge)
 [![gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jykim030119@gmail.com)](mailto:jykim030119@gmail.com)
 [![facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/jackyRedCircle)](https://www.facebook.com/jackyRedCircle)
-[![instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/?hl=ko)](https://www.instagram.com/?hl=ko)
+[![instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jacky_redcircle/?hl=ko)](https://www.instagram.com/jacky_redcircle/?hl=ko)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackyRedCircle&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackyRedCircle&show_icons=true&theme=vue)
